@@ -1,16 +1,18 @@
-# animated_login_page
+# Animated Login sreen
 
-A new Flutter application.
+## About the project
 
-## Getting Started
+This a simple clean animated login sreen with the fade animation
+It can be used for any project.
 
-This project is a starting point for a Flutter application.
+## The Designer
 
-A few resources to get you started if this is your first Flutter project:
+- [Design: This app was inspired by designs from thememockup](https://thememockup.com/mobile-onboarding-screens-for-screen)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src = "https://github.com/yonahgraphics/Simple-Onbording-App/blob/master/Simple_onboarding.jpg?raw=true">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Forking this repo (please read!)
+You can use my code in your project but please give me credit by linking my 
+[Github](https://github.com/yonahgraphics). That's all I ask for!
+
+
